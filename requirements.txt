@@ -1,0 +1,6 @@
+psycopg[binary]>=3.2
+pandas>=2.2
+numpy>=2.1
+pyarrow>=17
+pytest>=8
+python-dotenv>=1
